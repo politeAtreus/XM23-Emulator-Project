@@ -1,0 +1,19 @@
+﻿  cache.c
+  decode.c
+  def.c
+  execute.c
+C:\Users\Lenovo\OneDrive - Dalhousie University\Dal stuff\Past Stuff\Summer 2023\ECED 3403\A2\A2\execute.c(527,5): warning C4013: 'cache' undefined; assuming extern returning int
+  linkedlist.c
+  mem.c
+C:\Users\Lenovo\OneDrive - Dalhousie University\Dal stuff\Past Stuff\Summer 2023\ECED 3403\A2\A2\mem.c(18,54): warning C4133: 'function': incompatible types - from 'unsigned int *' to 'unsigned short *'
+C:\Users\Lenovo\OneDrive - Dalhousie University\Dal stuff\Past Stuff\Summer 2023\ECED 3403\A2\A2\mem.c(45,52): warning C4018: '<': signed/unsigned mismatch
+  processrec.c
+  psw.c
+  Source.c
+  stack.c
+  userprompt.c
+C:\Users\Lenovo\OneDrive - Dalhousie University\Dal stuff\Past Stuff\Summer 2023\ECED 3403\A2\A2\userprompt.c(180,21): warning C4477: 'scanf_s' : format string '%x' requires an argument of type 'unsigned int *', but variadic argument 1 has type 'unsigned short *'
+C:\Users\Lenovo\OneDrive - Dalhousie University\Dal stuff\Past Stuff\Summer 2023\ECED 3403\A2\A2\userprompt.c(180,21): message : consider using '%hx' in the format string
+  Generating Code...
+  LINK : C:\Users\Lenovo\OneDrive - Dalhousie University\Dal stuff\Past Stuff\Summer 2023\ECED 3403\A2\A2\x64\Debug\A2.exe not found or not built by the last incremental link; performing full link
+  A2.vcxproj -> C:\Users\Lenovo\OneDrive - Dalhousie University\Dal stuff\Past Stuff\Summer 2023\ECED 3403\A2\A2\x64\Debug\A2.exe
